@@ -1,16 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[VBS Documentation]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://isaiah20412.github.io/VBS-Documentation/</link><image><url>https://isaiah20412.github.io/VBS-Documentation/lib/media/favicon.png</url><title>VBS Documentation</title><link>https://isaiah20412.github.io/VBS-Documentation/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 14 Apr 2024 04:36:27 GMT</lastBuildDate><atom:link href="https://isaiah20412.github.io/VBS-Documentation/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 14 Apr 2024 04:36:27 GMT</pubDate><copyright><![CDATA[Isaiah Payton]]></copyright><ttl>60</ttl><dc:creator>Isaiah Payton</dc:creator><item><title><![CDATA[To-do]]></title><description><![CDATA[ 
- <br><br>
-<br>Documentation
-<br>Access Training Videos?
-<br>Add Food Allergy Handling in Access
-
-<br>Database Column
-<br>Separate Food Allergy Report
-<br>Update Existing Allergy Report (Do we want it to show all allergies, or just the non-food ones?)
-
-
-]]></description><link>https://isaiah20412.github.io/VBS-Documentation/isaiah's-to-do-list.html</link><guid isPermaLink="false">Isaiah's To-do List.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Sun, 14 Apr 2024 04:36:09 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
- <br><br>]]></description><link>registration/access-database.html</link><guid isPermaLink="false">Registration/Access Database.md</guid><pubDate>Sun, 14 Apr 2024 04:31:01 GMT</pubDate></item><item><title><![CDATA[First Week of April]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[VBS Documentation]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://isaiah20412.github.io/VBS-Documentation/</link><image><url>https://isaiah20412.github.io/VBS-Documentation/lib/media/favicon.png</url><title>VBS Documentation</title><link>https://isaiah20412.github.io/VBS-Documentation/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 15 Apr 2024 05:18:48 GMT</lastBuildDate><atom:link href="https://isaiah20412.github.io/VBS-Documentation/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 15 Apr 2024 05:18:47 GMT</pubDate><copyright><![CDATA[Isaiah Payton]]></copyright><ttl>60</ttl><dc:creator>Isaiah Payton</dc:creator><item><title><![CDATA[First Week of April]]></title><description><![CDATA[ 
  <br><br><br>
 <br>Coordinate with media team to show last year's slideshow.
 <br>Announce that Cow Creeker Registration opens on Monday.
@@ -36,5 +24,21 @@
 <br><br>
 <br>Update website to show that General Registration is now open.<br>
 <br>
-<br><br>Import registration data into the access database. (See <a data-href="Access Database" href="registration/access-database.html" class="internal-link" target="_self" rel="noopener">Access Database</a> for info.)<br>
-<br><br><br><br><br><br><br><br>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sun, 14 Apr 2024 04:30:36 GMT</pubDate></item></channel></rss>
+<br><br>
+<br>If registration hasn't already filled up, close it and transition to a waiting list.
+<br>Import registration data into the access database. (See <a data-href="Access Database" href="https://isaiah20412.github.io/VBS-Documentation/registration/access-database.html" class="internal-link" target="_self" rel="noopener">Access Database</a> for info.)<br>
+<br>
+<br><br><br><br><br><br><br>]]></description><link>https://isaiah20412.github.io/VBS-Documentation/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Sun, 14 Apr 2024 20:03:44 GMT</pubDate></item><item><title><![CDATA[To-do]]></title><description><![CDATA[ 
+ <br><br>
+<br>Documentation
+<br>Access Training Videos?
+<br>Add Food Allergy Handling in Access
+
+<br>Database Column
+<br>Separate Food Allergy Report
+<br>Update Existing Allergy Report (Do we want it to show all allergies, or just the non-food ones?)
+
+
+<br>Full list of all text from the current form for use with new website and/or Google forms in the future.
+]]></description><link>https://isaiah20412.github.io/VBS-Documentation/isaiah's-to-do-list.html</link><guid isPermaLink="false">Isaiah's To-do List.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Mon, 15 Apr 2024 05:18:42 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>registration/access-database.html</link><guid isPermaLink="false">Registration/Access Database.md</guid><pubDate>Sun, 14 Apr 2024 04:31:01 GMT</pubDate></item></channel></rss>
