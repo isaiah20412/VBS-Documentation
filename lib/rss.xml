@@ -1,4 +1,16 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[VBS Documentation]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://isaiah20412.github.io/VBS-Documentation/</link><image><url>https://isaiah20412.github.io/VBS-Documentation/lib/media/favicon.png</url><title>VBS Documentation</title><link>https://isaiah20412.github.io/VBS-Documentation/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 29 Apr 2024 00:08:20 GMT</lastBuildDate><atom:link href="https://isaiah20412.github.io/VBS-Documentation/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 29 Apr 2024 00:08:19 GMT</pubDate><copyright><![CDATA[Isaiah Payton]]></copyright><ttl>60</ttl><dc:creator>Isaiah Payton</dc:creator><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[VBS Documentation]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://isaiah20412.github.io/VBS-Documentation/</link><image><url>https://isaiah20412.github.io/VBS-Documentation/lib/media/favicon.png</url><title>VBS Documentation</title><link>https://isaiah20412.github.io/VBS-Documentation/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 29 Apr 2024 00:12:24 GMT</lastBuildDate><atom:link href="https://isaiah20412.github.io/VBS-Documentation/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 29 Apr 2024 00:12:24 GMT</pubDate><copyright><![CDATA[Isaiah Payton]]></copyright><ttl>60</ttl><dc:creator>Isaiah Payton</dc:creator><item><title><![CDATA[To-do]]></title><description><![CDATA[ 
+ <br><br>
+<br>Documentation
+<br>Access Training Videos?
+<br>Add Food Allergy Handling in Access
+
+<br>Database Column
+<br>Separate Food Allergy Report
+<br>Update Existing Allergy Report (Do we want it to show all allergies, or just the non-food ones?)
+
+
+<br>Full list of all text from the current form for use with new website and/or Google forms in the future.
+]]></description><link>https://isaiah20412.github.io/VBS-Documentation/isaiah's-to-do-list.html</link><guid isPermaLink="false">Isaiah's To-do List.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Mon, 29 Apr 2024 00:10:17 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
  <br><br>We use a custom Microsoft Access database to manage the registered kids and all of their associated info. This database is also the means by which we track the breakdown of our various tribes.<br>
 <br><br><br>Since registration is not directly linked to this database, the information must be semi-manually imported once initial registration closes. To do this, export the registration form data from the registration platform (Clover, Google Forms, etc.). The data will either be output as a .csv (Comma Separated Values) file. Open this file in Microsoft Excel and save it as a .xlsx (Microsoft Excel Workbook) file for ease of use.<br>Go through the two address columns and merge any entries in "Address Line 2" with the respective entries in "Address Line 1."<br>Remove the following unnecessary columns and all their content:<br>
 <br>Address Line 2
@@ -40,16 +52,4 @@
 <br><br><br><br><br>
 <br>Take tribe pictures
 <br>Make postcards
-<br><br><br>]]></description><link>https://isaiah20412.github.io/VBS-Documentation/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Mon, 29 Apr 2024 00:08:08 GMT</pubDate></item><item><title><![CDATA[To-do]]></title><description><![CDATA[ 
- <br><br>
-<br>Documentation
-<br>Access Training Videos?
-<br>Add Food Allergy Handling in Access
-
-<br>Database Column
-<br>Separate Food Allergy Report
-<br>Update Existing Allergy Report (Do we want it to show all allergies, or just the non-food ones?)
-
-
-<br>Full list of all text from the current form for use with new website and/or Google forms in the future.
-]]></description><link>https://isaiah20412.github.io/VBS-Documentation/isaiah's-to-do-list.html</link><guid isPermaLink="false">Isaiah's To-do List.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Mon, 15 Apr 2024 05:18:42 GMT</pubDate></item></channel></rss>
+<br><br><br>]]></description><link>https://isaiah20412.github.io/VBS-Documentation/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Mon, 29 Apr 2024 00:08:08 GMT</pubDate></item></channel></rss>
