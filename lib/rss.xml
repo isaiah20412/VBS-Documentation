@@ -1,1 +1,140 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[VBS Documentation]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://isaiah20412.github.io/VBS-Documentation/</link><image><url>https://isaiah20412.github.io/VBS-Documentation/lib/media/favicon.png</url><title>VBS Documentation</title><link>https://isaiah20412.github.io/VBS-Documentation/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 22 Feb 2025 06:16:29 GMT</lastBuildDate><atom:link href="https://isaiah20412.github.io/VBS-Documentation/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 22 Feb 2025 06:16:29 GMT</pubDate><copyright><![CDATA[Isaiah Payton]]></copyright><ttl>60</ttl><dc:creator>Isaiah Payton</dc:creator></channel></rss>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[VBS Documentation]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://isaiah20412.github.io/VBS-Documentation/</link><image><url>https://isaiah20412.github.io/VBS-Documentation/lib/media/favicon.png</url><title>VBS Documentation</title><link>https://isaiah20412.github.io/VBS-Documentation/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 22 Feb 2025 06:19:52 GMT</lastBuildDate><atom:link href="https://isaiah20412.github.io/VBS-Documentation/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 22 Feb 2025 06:19:49 GMT</pubDate><copyright><![CDATA[Isaiah Payton]]></copyright><ttl>60</ttl><dc:creator>Isaiah Payton</dc:creator><item><title><![CDATA[Daily PowerPoint Creation]]></title><description><![CDATA[ 
+ <br>We create a separate PowerPoint file for each day of VBS. These presentations include the following items, arranged so that everything can flow linearly throughout the day.]]></description><link>https://isaiah20412.github.io/VBS-Documentation/daily-slideshows/daily-powerpoint-creation.html</link><guid isPermaLink="false">Daily Slideshows/Daily PowerPoint Creation.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Mon, 20 May 2024 02:03:06 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br>We use Avery 5160 sticky labels to address each postcard. We print the addresses on the labels from a Word document that connects to Access and pulls information from the registration database.<br><br>The Word document is located in the \\LEVI\Pictures\VBS\{Current Year - VBS Name}\Family Group Photos\{Current Year} Postcards folder. Navigate to that location and open the "Address Labels.docx" file.<br>The following dialog box will likely appear - click yes when prompted.<br>
+<img alt="Pasted image 20240605144358.png" src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605144358.png"><br>In Word's ribbon, select the "Mailings" tab.<br>
+<img src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605144633.png"><br>
+Click "Select Recipients", then "Use an Existing List..."<br>
+<img alt="Pasted image 20240605144726.png" src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605144726.png"><br>
+Use the file picker pop-up to navigate to and select the current VBS Registration Database (should be located under \OneDrive\VBS\{Current Year} - {Current Theme}\Registration\{Current Year} VBS Registration.accdb)<br>
+<img alt="Pasted image 20240605154024.png" src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605154024.png"><br>
+The following pop-up will appear - find and select the "queMailingList" query.<br>
+<img alt="Pasted image 20240605154948.png" src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605154948.png"><br>Note
+You will not see any information in the document; don't worry, the printed labels will auto-update.
+<br>Save the document.<br><br>Open the bypass tray on the printer and load the labels facedown. Word will automatically feed from the bypass tray when printing this document.<br>Under the "Mailing" ribbon tab, select "Finish &amp; Merge", then "Print Documents..."<br>
+<img alt="Pasted image 20240605155119.png" src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605155119.png"><br>
+Select "All" and click "OK"<br>
+<img alt="Pasted image 20240605155417.png" src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605155417.png"><br>
+Click "Properties" and make sure that the 2 sided printing is turned off.<br>
+<img alt="Pasted image 20240605155640.png" src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605155640.png"><br>Click "OK" and enjoy.]]></description><link>https://isaiah20412.github.io/VBS-Documentation/postcards/address-labels.html</link><guid isPermaLink="false">Postcards/Address Labels.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Sat, 22 Feb 2025 06:16:05 GMT</pubDate><enclosure url="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605144358.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605144358.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br><br>The \\LEVI\Pictures\VBS\{Current Year - VBS Name}\Family Group Photos folder should have .jpg photos of each tribe, labeled accordingly. (You may have to coordinate with the photographer to get these - but you basically just want the best non-goofy picture of each tribe.) Crop them if necessary - you can look at previous years to see approximately what they should end up looking like.<br>
+<img alt="Pasted image 20240605160502.png" src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605160502.png"><br><br>
+<br>Navigate to the \\LEVI\Pictures\VBS\{Current Year - VBS Name}\Family Group Photos\{Current Year} Postcards folder and open the "VBS Family Group Postcard Template.pub" file.
+<br>Save the file in the same folder as "{Tribe Name}.pub"
+<br>Replace the picture with the respective tribe photo from the location mentioned above.
+<br><br>In Publisher, select "File" then "Print."<br>
+Load card stock in the printer. You can load it in tray one after removing the regular paper, or you can use the bypass tray and change the print settings accordingly.<br>Set the "Print on Both Sides" option to "Flip sheets on short edge."<br>
+Set the "Copies of each page" field to the amount of kids in the tribe as well as an extra for each junior helper. Publisher will automatically tile the postcards as needed.<br>
+<img alt="Pasted image 20240605161712.png" src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605161712.png"><br>]]></description><link>https://isaiah20412.github.io/VBS-Documentation/postcards/postcards.html</link><guid isPermaLink="false">Postcards/Postcards.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Thu, 06 Jun 2024 06:37:00 GMT</pubDate><enclosure url="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605160502.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240605160502.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br>We use a custom Microsoft Access database to manage the registered kids and all of their associated info. This database is also the means by which we track the breakdown of our various tribes.<br>
+<br><br><br>Since registration is not directly linked to this database, the information must be semi-manually imported once initial registration closes. To do this, export the registration form data from the registration platform (Clover, Google Forms, etc.). The data will either be output as a .csv (Comma Separated Values) file. Open this file in Microsoft Excel and save it as a .xlsx (Microsoft Excel Workbook) file for ease of use.<br>Go through the two address columns and merge any entries in "Address Line 2" with the respective entries in "Address Line 1."<br>Remove the following unnecessary columns and all their content:<br>
+<br>Address Line 2
+<br>Country
+<br>Food Allergies (not the column with the actual allergies, just the column that lists the yes or no answers).
+<br>Other Allergies/Medical Needs
+<br>Other Allergies/Medical Needs - Value
+<br>Created At
+<br>Reverse the order of the first two columns so that the "Last Name" column becomes Column A and the "First Name" column becomes Column B.<br>The first row in the spreadsheet contains the column header information and must match the order and naming scheme found in the "Header Template.xlsx" spreadsheet. You can copy the data from that file and replace the contents of this first row for convenience. Verify that everything matches and that the headers line up with the appropriate columns.]]></description><link>https://isaiah20412.github.io/VBS-Documentation/registration/access-database.html</link><guid isPermaLink="false">Registration/Access Database.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Mon, 29 Apr 2024 07:06:28 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br>We make separate PowerPoint files for each song so that we can grab all the slides (complete with audio) for any combination of songs to use in our <a data-tooltip-position="top" aria-label="Daily PowerPoint Creation" data-href="Daily PowerPoint Creation" href="https://isaiah20412.github.io/VBS-Documentation/daily-slideshows/daily-powerpoint-creation.html" class="internal-link" target="_self" rel="noopener nofollow">daily PowerPoints</a>.<br><br>In the main "2024 - Egypt" folder is a file labeled "ohmightyisis.ttf". Double-click on this file and then click "Install" on the popup to install the font to your computer. This font will need to be installed on every computer that the PowerPoints will be edited on and/or presented from.<br>
+<img alt="Pasted image 20240520193914.png" src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240520193914.png"><br><br><br>Once you have the presentation finished, go back to the title slide, click on the "Animations" toolbar, then open the "Animation Pane".<br>
+<img src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240520194930.png"><br>
+In the animation pane, click on the small black arrow on the right of the entry for the audio clip.<br>
+<img src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240520195101.png"><br>
+Click on "Effect Options" and set the "Stop playing" option to "After" and enter the total number of slides in your PowerPoint.<br>
+<img alt="Pasted image 20240520195229.png" src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240520195229.png"><br><br>
+<br>All slide transitions should be a 0.50 second fade.
+<br>Audio for each song should be placed on the opening (title) slide of the presentation. The following options must be set.
+
+<br>Start: Automatically
+<br>Play Across Slides
+<br>Hide During Show
+<br>Rewind after Playing
+
+
+]]></description><link>https://isaiah20412.github.io/VBS-Documentation/song-lyrics/individual-lyric-presentations.html</link><guid isPermaLink="false">Song Lyrics/Individual Lyric Presentations.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Thu, 06 Jun 2024 06:40:18 GMT</pubDate><enclosure url="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240520193914.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://isaiah20412.github.io/VBS-Documentation/lib/media/pasted-image-20240520193914.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Timeline]]></title><description><![CDATA[ 
+ <br><br><br><br>
+<br>Coordinate with media team to show last year's slideshow.
+<br>Announce that Cow Creeker Registration opens on Monday.
+<br>Double-check codes on website.
+<br><br>
+<br>Update website to show that Cow Creek Registration is now open.<br>
+<br>
+<br><br><br>
+<br>Announce that Postcard Registration opens on Monday.
+
+<br>Late Sunday night (right before going to bed), update codes on registration form to accept the postcard code in addition to the Cow Creek code.
+
+
+<br><br>
+<br>Update website to show that Postcard Registration is now open.<br>
+<br>
+<br><br><br>
+<br>Announce that General Registration opens on Monday.
+
+<br>Late Sunday night (right before going to bed), remove access code on registration form. Preview the form and make sure that all sections appear and that no error messages associated with the code appear.
+
+
+<br><br>
+<br>Update website to show that General Registration is now open.<br>
+<br>
+<br><br>
+<br>If registration hasn't already filled up, close it and transition to a waiting list.
+<br>Import registration data into the access database. (See <a data-href="Access Database" href="https://isaiah20412.github.io/VBS-Documentation/registration/access-database.html" class="internal-link" target="_self" rel="noopener nofollow">Access Database</a> for info.)<br>
+<br>
+<br><br><br><br><br>
+<br>Take tribe pictures.
+<br>Make postcards.
+
+<br><a class="internal-link" data-href="Postcards.md" href="https://isaiah20412.github.io/VBS-Documentation/postcards/postcards.html" target="_self" rel="noopener nofollow">Create individual Publisher files</a> for each tribe.
+<br>Create and print <a class="internal-link" data-href="Address Labels.md" href="https://isaiah20412.github.io/VBS-Documentation/postcards/address-labels.html" target="_self" rel="noopener nofollow">Address Labels</a>.
+<br>Cut out and label postcards.
+
+
+<br><br><br>]]></description><link>https://isaiah20412.github.io/VBS-Documentation/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Thu, 06 Jun 2024 06:26:16 GMT</pubDate></item><item><title><![CDATA[To-do]]></title><description><![CDATA[ 
+ <br><br>
+<br>Documentation
+<br>Access Training Videos?
+<br>Add Food Allergy Handling in Access
+
+<br>Database Column
+<br>Separate Food Allergy Report
+<br>Update Existing Allergy Report (Do we want it to show all allergies, or just the non-food ones?)
+
+
+<br>Full list of all text from the current form for use with new website and/or Google forms in the future.
+]]></description><link>https://isaiah20412.github.io/VBS-Documentation/isaiah's-to-do-list.html</link><guid isPermaLink="false">Isaiah's To-do List.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Mon, 20 May 2024 03:42:30 GMT</pubDate></item><item><title><![CDATA[Website Blurb]]></title><description><![CDATA[ 
+ <br><br>June 9-14 (9 am-Noon)  <br>Kids' day program primarily designed to share the Gospel while having fun with crafts, games, and songs!<br>Come travel to Egypt with us to learn of God's Surprising Salvation!<br>Free!<br>For Kids 4 years old through those entering 5th grade.<br>Closing Celebration and BBQ for the whole family on Friday at 11:30 am  <br>153476<br>
+<a data-tooltip-position="top" aria-label="https://cowcreekcommunitychurch-greenhousepreview.cloversites.com/events/vbs-waiting-list" rel="noopener nofollow" class="external-link" href="https://cowcreekcommunitychurch-greenhousepreview.cloversites.com/events/vbs-waiting-list" target="_blank">General registration has closed, but our waiting list is up and running</a><a data-tooltip-position="top" aria-label="https://cowcreekcommunitychurch-greenhousepreview.cloversites.com/events/vbs-registration" rel="noopener nofollow" class="external-link" href="https://cowcreekcommunitychurch-greenhousepreview.cloversites.com/events/vbs-registration" target="_blank">!</a><br>!! Today (June 9th) is the LAST DAY to be added to the waiting list - we will not accept late submissions !!<br><br>It looks like the code you've entered is from a postcard. Postcard registration opens on April 15th.<br><br><br>God's Surprising Salvation<br>
+<br>Servant Rejected
+<br>
+
+<br>
+
+
+<br>Servant Exalted
+<br>Servant Saves
+<br>Servant Forgives
+<br><br>
+<br>Costumes - need more and people to help w/ cutting/sewing.
+<br>Need more male tribe leaders if possible.
+<br><br>
+<br>Flat sheets for decor.
+<br>Food booth allergy coordination.
+<br><br>
+<br>Songs ASAP for slideshow generation.
+<br>Helpers this year: Lily and Daniel? Maybe Jonathan.
+<br>Looking for more male involvement.
+<br>Maybe video some of the motions for usage.
+<br><br>
+<br>Boxes and plastic jugs - all shapes and sizes!
+<br>Greenery
+<br><br>
+<br>Too cool for games kids...
+<br>Possible field maintenance.
+<br>Consistent helpers.
+<br><br>
+<br>Coordinate w/ games' needs.
+<br>Allergy bracelets.
+<br>Junior helpers in via gym entrance, not kitchen.
+<br><br><br><br>
+<br>QR Code for registration on postcards?
+]]></description><link>https://isaiah20412.github.io/VBS-Documentation/vbs-notes.html</link><guid isPermaLink="false">VBS Notes.md</guid><dc:creator><![CDATA[Isaiah Payton]]></dc:creator><pubDate>Sun, 04 Aug 2024 23:59:10 GMT</pubDate></item></channel></rss>
